@@ -1,0 +1,7 @@
+logging:
+  level:
+    root: INFO
+    org.hibernate.SQL: INFO
+
+dao:
+  student: Fake
