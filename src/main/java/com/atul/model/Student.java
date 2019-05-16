@@ -1,4 +1,4 @@
-package com.atul.entity;
+package com.atul.model;
 
 public class Student {
 	

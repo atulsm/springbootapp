@@ -2,7 +2,7 @@ package com.atul.dao;
 
 import java.util.Collection;
 
-import com.atul.entity.Student;
+import com.atul.model.Student;
 
 public interface StudentDao {
 

@@ -8,7 +8,7 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 
 import com.atul.dao.StudentDao;
-import com.atul.entity.Student;
+import com.atul.model.Student;
 
 @Service
 public class StudentService {

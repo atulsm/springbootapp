@@ -7,7 +7,7 @@ import java.util.Map;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Repository;
 
-import com.atul.entity.Student;
+import com.atul.model.Student;
 
 @Repository
 @Qualifier("Fake")
